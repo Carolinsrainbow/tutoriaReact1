@@ -8,7 +8,7 @@ class SlideBar extends React.Component {
  
   		<div id="slider" className="carousel slide" data-ride="carousel">
 		    <ol className="carousel-indicators">
-		        <li data-slide-to="0" className="active"></li>
+		        <li  className="active"></li>
 		        <li  data-slide-to="1"></li>
 		        <li  data-slide-to="2"></li>
 				<li  data-slide-to="3"></li>
